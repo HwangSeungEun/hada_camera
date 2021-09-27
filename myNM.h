@@ -55,6 +55,8 @@ double integral38(double func(const double x), double a, double b, int N);
 //미분 방정식 modified
 double ODE(double func(double x, double y), double _x[], double _y[]);
 
+//gitgub 연습중
+void displayArray(double xin[]);
 
 
 
